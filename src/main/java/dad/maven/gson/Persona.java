@@ -1,4 +1,4 @@
-package dad.maven.gson.GsonSample;
+package dad.maven.gson;
 
 import java.util.*;
 

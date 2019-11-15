@@ -1,4 +1,4 @@
-package dad.maven.gson.GsonSample;
+package dad.maven.gson;
 import com.google.gson.*;
 
 public class Main {
